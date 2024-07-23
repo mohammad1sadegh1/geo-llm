@@ -1,2 +1,2 @@
 # geo-llm
-An effort to bring the power of LLMs in geospatial analysis pipline.
+An effort to utilize the power of LLMs in geospatial analysis pipline.
